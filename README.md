@@ -27,7 +27,7 @@ Make sure the **featureCounts matrix** has:
 * FCmatrix_cleaned.rds - *cleaned featureCounts matrix*
 * mergedAnnotation.rds - *gene annotations merged with gene IDs (based on species dataset)*
 * FCwithgenes.rds - *featureCounts matrix with gene annotations*
-* dgeInitation.rds - *initial DGE list*
+* dgeInitial.rds - *initial DGE list*
 * dgeNormalized.rds - *DGE list normalized by TMM*
 * dgeDispersion.rds - *dispersion estimates for DGE list*
 * dgeFit.rds - *GLM-fitted DGE list*  
