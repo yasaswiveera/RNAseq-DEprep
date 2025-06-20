@@ -8,7 +8,7 @@ This repository has an R script to preprocess RNA-seq gene count data from a **f
 * Annotates gene IDs from **Ensembl** with gene symbols
 * Constructs and normalizes a **DGEList** that can be analysed by *edgeR*
 * Estimates dispersion and fits GLM
-* Saves each major step as '.rds' object for modular use
+* Saves each major step as ".rds" file for modular use
 
 ## Requirements   
 
